@@ -1,0 +1,8 @@
+%
+(Header)
+(Using default header. To add your own header create file "header" in the output dir.)
+(Header end.)
+G20 (All units in inches)
+
+G00 Z 0.50
+G00 X 0 Y 0
